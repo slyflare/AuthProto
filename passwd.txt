@@ -1,0 +1,12 @@
+MLowery:$2b$14$DmhIj2w6DC2fQMCAGDvo4.em8eLOpus2dxdhJIm3.Qm7MU5fABOWK:ad6bc5fa-2028-4018-920c-af334211e2bb:1:Mischa Lowery:MischaLowery@email.com:1327891241
+WCallahan:$2b$14$mqE27GMMHORzQSkxSeLcAusL2pDGyzwWFQfeZlWezVqAuSYbQltSK:b070e869-0dc7-432c-a81c-f138dcba70ce:7:Wiston Callahan:WinstonCallahan@Finvest.com:1239084712
+WilkinViking:$2b$14$HxUX9ky5AezI9aQwq1T.Ru5er0l.R2/pG5E4yw5OGxwdQmq7T3boe:802b54f4-7d85-4b99-a0b6-6bf3609ada84:4:Nelson Wilkins:NelsonWilkins@Finvest.com:1230982351
+HowardWizard:$2b$14$jJ6wKpWOHlIn6.YRvz3R5.BnDCmtV94xg4i2d2N4K0E9iRFQuOjOa:8808a8e9-b920-4c18-aedb-04e4d9f9aa6c:8:Howard Linkler:HowardLinkler@Finvest.com:8901234578
+Nalaton:$2b$14$LKV0l/29j7GQxdcV4dtYUeauBx9bh.wwBrj4C5IaFXCW7pul1a0oK:e183009d-7903-45bd-a3ed-4773b72fa721:2:Nala Preston:NalaPreston@email.com:5671327890
+Kentent:$2b$14$9UTdDcHON9rXIh3SY3lRvurPI8xUFZRhtDxNKMH384vlw1nCl4xxe:bc5f619b-8f46-48de-9b9c-53008afb3373:5:Stacy Kent:StacyKent@Finvest.com:1234561863
+WuWuWu:$2b$14$aTUEMvwtkfdzzUoETSq4wurNzKlbGQVn/FNQzEvwPlWsl7c.LUKd.:dd2056a8-bd7a-4162-9aba-7e7878289045:3:Malikah Wu:MalikahWu@Finvest.com:4561959714
+BarclayPremier:$2b$14$yoZw.28/8PEqcJxB.dPov.XyZxSQgYYvdasd5gxNwzdZuuYkLqRnS:91941dd1-2136-460f-8e05-bdd2f3e128da:6:Pawel Barclay:PawelBarclay:6247531920
+GarzaSaga:$2b$14$jPhMQnx1wAGnezdNdeouHOOWGAOjcIFtz1XBHnXlCEg7J27ROdtVe:5e1ee4eb-96bf-44be-bee0-1c2716af3839:2:Willow Garza:WillowGarza@email.com:12345846321
+Smarty:$2b$14$AfoBC9LR2TP0Olm1znEKf.r/LDFtTtTz6bC/h/wMvoCoG/RQBRUDa:fa9af06b-5706-4c0d-b9ae-419752386e71:8:Stefania Smart:StefaniaSmart@Finvest.com:7489156418
+VanGough:$2b$14$3rx0KqJzmwlwZCu3.YCCB.03SsYNJzKVssTsKGA1/m1ek3FMqwXHO:f087670d-2f31-4e2b-ba20-977b8690b51c:7:Kelan Gough:KelanGough@Finvest.com:1894861593
+Kelpsea:$2b$14$RqeOwLyi2DbS4H0j.c3Ze.sz1Tt24NKWd6R9QhCrh5HViG2uhg78G:0f2101dd-1a5f-4142-aea3-2f61d9814772:4:Kelsie Chang:KelsieChang@Finvest.com:1425124697
